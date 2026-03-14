@@ -1,7 +1,6 @@
 # 90DaysOfFlutter 🚀
 
-**By [Mohammed L Shnawy](https://linkedin.com/in/mohammedlshnawy)**  
-📅 Start date: 15 Mar 2026
+📅 Start date: 15 Mar 2026 **By [Mohammed L Shnawy](https://www.shnawy.com/)** 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@mohammedlshnawy-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohammedlshnawy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammedlshnawy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedlshnawy)
