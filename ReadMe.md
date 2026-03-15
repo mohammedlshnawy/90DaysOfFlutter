@@ -19,15 +19,19 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 
 ### Phase 1 — Dart Fundamentals (Weeks 1–2)
 
-**Goal:** write a small CLI program in Dart by end of week 2
+**Goal:** write a Goal CLI program in Dart by end of week 2
 
-- [ ] Types, null safety, and variables
-- [ ] Functions, classes, and OOP patterns
-- [ ] Collections: List, Map, Set
+- [x] Types, null safety, variable and functions
+- [x] Unit Converter - [link](/PhaseOne/1_UnitConverter.dart)
+- [ ] Classes, and OOP patterns
+- [ ] Bank Account Class
+- [x] Collections: List, Map, Set
+- [ ] Grade Tracker
 - [ ] Async / await and Futures
-- [ ] Daily practice on [dartpad.dev](https://dartpad.dev)
+- [ ] Fake API Fetcher
+- [ ] Goal Project
 
-**Mini project:** _Word Frequency Counter_ — reads a text file, outputs the top 10 most used words
+**Goal project:** _Word Frequency Counter_ — reads a text file, outputs the top 10 most used words
 
 
 
@@ -84,8 +88,10 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 
 ## Resources
 
-- [docs.flutter.dev/learn/pathway](https://docs.flutter.dev/learn/pathway) — the main learning path I'm following
-- [dartpad.dev](https://dartpad.dev) — for quick Dart experiments without a full project setup
+- [Flutter Pathway](https://docs.flutter.dev/learn/pathway) — the main learning path I'm following
+- [Net Ninja — Dart Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh) — crash course covering Dart basics
+
+- [DartPad](https://dartpad.dev) — for quick Dart experiments without a full project setup
 
 
 
