@@ -10,7 +10,7 @@ Notes, explanations, and mini projects from weeks 1–2. Everything here is CLI 
 
 ### Unit Converter
 
-[`1_UnitConverter.dart`](/PhaseOne/1_UnitConverter.dart)
+[`UnitConverter.dart`](/PhaseOne/UnitConverter.dart)
 
 First project after going through types, null safety, variables, and functions.
 
@@ -23,7 +23,7 @@ The function has one constant — the conversion rate — and one parameter for 
 
 ### Grade Tracker
 
-[`2_GradeTracker.dart`](/PhaseOne/2_GradeTracker.dart)
+[`GradeTracker`](/PhaseOne/GradeTracker)
 
 Second project after going through collections: List, Map, and Set.
 
