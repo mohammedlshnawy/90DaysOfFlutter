@@ -26,7 +26,7 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [ ] Classes, and OOP patterns
 - [ ] Simple Bank Account Project
 - [x] Collections: List, Map, Set
-- [ ] Grade Tracker Project
+- [x] Grade Tracker Project
 - [ ] Async / await and Futures
 - [ ] Fake API Fetcher Project
 - [ ] Word Frequency Counter Project
@@ -89,7 +89,8 @@ Check Out : [`Phase 1 Notes`](/PhaseOne)
 - [Flutter Pathway](https://docs.flutter.dev/learn/pathway) — the main learning path I'm following
 - [Net Ninja — Dart Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh) — crash course covering Dart basics
 
-- [DartPad](https://dartpad.dev) — for quick Dart experiments without a full project setup
+- [DartPad](https://dartpad.dev) — for quick Dart experiments without a full project setup 
+  > Note: DartPad is broken, so I installed the Flutter SDK and am using the Dart terminal instead.
 
 
 
