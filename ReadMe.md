@@ -22,18 +22,17 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 **Goal:** write a Goal CLI program in Dart by end of week 2
 
 - [x] Types, null safety, variable and functions
-- [x] Unit Converter - [link](/PhaseOne/1_UnitConverter.dart)
+- [x] Unit Converter Project
 - [ ] Classes, and OOP patterns
-- [ ] Bank Account Class
+- [ ] Simple Bank Account Project
 - [x] Collections: List, Map, Set
-- [ ] Grade Tracker
+- [ ] Grade Tracker Project
 - [ ] Async / await and Futures
-- [ ] Fake API Fetcher
-- [ ] Goal Project
-
-**Goal project:** _Word Frequency Counter_ — reads a text file, outputs the top 10 most used words
+- [ ] Fake API Fetcher Project
+- [ ] Word Frequency Counter Project
 
 
+Check Out : [`Phase 1 Notes`](/PhaseOne)
 
 ### Phase 2 — Flutter Core (Weeks 3–7)
 
@@ -44,8 +43,7 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [ ] Week 5 — Navigation, routing, multiple screens
 - [ ] Week 6 — HTTP requests, JSON, FutureBuilder
 - [ ] Week 7 — State management basics (Provider / Riverpod)
-
-**Mini project:** _Weather App_ — multi-screen, live weather data from a public API
+- [ ] Weather App
 
 
 
@@ -56,6 +54,7 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [ ] Week 8 — Local storage: SharedPreferences + SQLite / Isar
 - [ ] Week 9 — Forms, validation, user input
 - [ ] Week 10 — Custom widgets, themes, basic animations
+- [ ] Extend the weather app
 
 
 
@@ -68,8 +67,7 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [ ] Real data (API or local DB)
 - [ ] Published on GitHub with its own README
 - [ ] Runs on Android and iOS
-
-**Capstone idea:** _Prayer Times App_ — geolocation, live prayer time API, local notifications, daily scheduling
+- [ ] Prayer Times App
 
 
 
@@ -77,10 +75,10 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 
 | # | Project | Phase | Platforms | Status |
 |---|---------|-------|-----------|--------|
-| 1 | Word Frequency Counter (CLI) | Phase 1 | CLI | 🔲 Not started |
+| 1 | Word Frequency Counter | Phase 1 | CLI | 🔲 Not started |
 | 2 | Weather App | Phase 2 | Android / iOS | 🔲 Not started |
-| 3 | Weather App v2 (offline + polished) | Phase 3 | Android / iOS | 🔲 Not started |
-| 4 | Prayer Times App (capstone) | Phase 4 | Android / iOS | 🔲 Not started |
+| 3 | Weather App v2 | Phase 3 | Android / iOS | 🔲 Not started |
+| 4 | Prayer Times App | Phase 4 | Android / iOS | 🔲 Not started |
 
 > Status key: 🔲 Not started · 🔄 In progress · ✅ Done
 
