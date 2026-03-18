@@ -26,6 +26,7 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [ ] Classes, and OOP patterns
 - [ ] Simple Bank Account Project
 - [x] Collections: List, Map, Set
+- [x] Control Flow
 - [x] Grade Tracker Project
 - [ ] Async / await and Futures
 - [ ] Fake API Fetcher Project
