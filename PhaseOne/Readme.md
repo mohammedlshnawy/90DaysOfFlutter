@@ -32,3 +32,14 @@ The core data structure is a `Map<String, List<int>>` — each student's name ma
 The report prints in a single `forEach` loop over the Map. While iterating I also track the top student by comparing each average against a running high score — so there's no second pass over the data. The class average gets calculated after the loop using a running sum accumulated during it.
 
 **What I practiced:** `Map`, `List`, `forEach`, the `collection` package, string padding with `padRight`, and tracking state across a loop with running variables.
+
+### Bank Account
+
+[`BankAccount.dart`](/PhaseOne/bankaccount)
+
+Third project after going through classes and OOP patterns.
+
+The class holds one piece of state — `balance` — and exposes two operations on it: deposit and withdraw. Both return a formatted string rather than just mutating silently, which made testing in `main()` feel immediate. The withdraw method checks for a zero balance before doing anything, which was the first time I had a method that needed to think before acting rather than just execute.
+
+
+**What I practiced:** class declaration, constructors, instance variables, methods with return types, and basic conditional logic inside a method.
