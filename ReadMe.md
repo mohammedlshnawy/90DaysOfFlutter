@@ -23,8 +23,8 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 
 - [x] Types, null safety, variable and functions
 - [x] Unit Converter Project
-- [ ] Classes, and OOP patterns
-- [ ] Simple Bank Account Project
+- [x] Classes, and OOP patterns
+- [x] Simple Bank Account Project
 - [x] Collections: List, Map, Set
 - [x] Control Flow
 - [x] Grade Tracker Project
