@@ -35,7 +35,7 @@ The report prints in a single `forEach` loop over the Map. While iterating I als
 
 ### Bank Account
 
-[`BankAccount`](/PhaseOne/bankaccount)
+[`BankAccount`](/PhaseOne/BankAccount)
 
 Third project after going through classes and OOP patterns.
 
@@ -43,3 +43,21 @@ The class holds one piece of state — `balance` — and exposes two operations 
 
 
 **What I practiced:** class declaration, constructors, instance variables, methods with return types, and basic conditional logic inside a method.
+
+Here's the section in the same style:
+
+---
+
+### Fake API Fetcher
+
+[`FakeAPIFetcher`](/PhaseOne/FakeAPIFetcher)
+
+Fourth project after going through async/await and Futures.
+
+The program fetches a single product from [fakestoreapi.com](https://fakestoreapi.com) and prints its title, ID, and description. Simple on the surface, but this is the first project where the order of execution stopped being top-to-bottom — `main()` has to wait for `fetchData()` to come back before it can do anything, and making peace with that was the actual lesson here.
+
+`fetchData()` returns a `Future<Post>`, which meant I had to think about what the function *promises* rather than what it immediately gives. The status code check was the first time error handling felt necessary rather than theoretical — a silent failure from a bad response would have been genuinely hard to debug without it. The JSON decoding step made `Map<String, dynamic>` click in a way the collections project didn't fully capture: the type is vague by necessity, not by laziness.
+
+The `Post` class is minimal on purpose — just enough to give the response data names instead of string keys.
+
+**What I practiced:** `async`/`await`, `Future<T>` as a return type, the `http` package, `dart:convert` for JSON decoding, status code handling, and mapping raw API data onto a typed class.

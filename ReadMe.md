@@ -17,6 +17,8 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 
 ## The Roadmap
 
+> **Note on "weeks":** each week in the roadmap is ~10 hours of actual study and work, not a calendar week. Some days I'll get 20 minutes in, some days 6 hours — it evens out.
+
 ### Phase 1 — Dart Fundamentals (Weeks 1–2)
 
 **Goal:** write a Goal CLI program in Dart by end of week 2
