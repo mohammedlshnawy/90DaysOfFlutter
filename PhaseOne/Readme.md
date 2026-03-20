@@ -35,7 +35,7 @@ The report prints in a single `forEach` loop over the Map. While iterating I als
 
 ### Bank Account
 
-[`BankAccount.dart`](/PhaseOne/bankaccount)
+[`BankAccount`](/PhaseOne/bankaccount)
 
 Third project after going through classes and OOP patterns.
 
