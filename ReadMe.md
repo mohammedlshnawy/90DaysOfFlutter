@@ -28,8 +28,8 @@ The weekly log is honest. If something confused me, I'll say so. If I skipped a 
 - [x] Collections: List, Map, Set
 - [x] Control Flow
 - [x] Grade Tracker Project
-- [ ] Async / await and Futures
-- [ ] Fake API Fetcher Project
+- [x] Async / await and Futures
+- [x] Fake API Fetcher Project
 - [ ] Word Frequency Counter Project
 
 
