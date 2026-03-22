@@ -78,7 +78,7 @@ Check Out : [`Phase 1 Notes`](/PhaseOne)
 
 | # | Project | Phase | Platforms | Status |
 |---|---------|-------|-----------|--------|
-| 1 | Word Frequency Counter | Phase 1 | CLI | 🔲 Not started |
+| 1 | Word Frequency Counter | Phase 1 | CLI | 🔄 In progress |
 | 2 | Weather App | Phase 2 | Android / iOS | 🔲 Not started |
 | 3 | Weather App v2 | Phase 3 | Android / iOS | 🔲 Not started |
 | 4 | Prayer Times App | Phase 4 | Android / iOS | 🔲 Not started |
